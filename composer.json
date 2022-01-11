@@ -1,0 +1,21 @@
+{
+    "name": "brandont18/pdfmergerphp",
+    "version": "1.0",
+    "description": "PDFMerger for PHP",
+    "keywords": ["PHP", "PDF"],
+    "homepage": "https://github.com/brandont18/pdfmergerphp",
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "authors": [{
+        "name": "Brandon Torres",
+        "homepage": "https://github.com/brandont18"
+    }],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "PDFMerger": "Classes/"
+        }
+    }
+}
